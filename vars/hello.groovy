@@ -1,1 +1,3 @@
-def call hello.groovy
+def call (){
+  echo "hello world"
+}
